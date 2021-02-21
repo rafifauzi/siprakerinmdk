@@ -1,0 +1,81 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: roboto;
+}
+@font-face {
+	font-family: 'roboto';
+	src:url(../fonts/Roboto-Regular.ttf);
+}
+a{
+	text-decoration: none;
+	color: #000000;
+}
+a:visited{
+	color: #000000;
+}
+.img_logo{
+	float: left;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	width:75px;
+	height:80px;
+}
+#title{
+  color: #ffffff;
+  margin-top: 30px;
+  margin-left: 7%;
+}
+
+.header{
+	background-color: #009688;
+	height: auto;
+	width: 100%;
+	position: fixed;
+	box-shadow: 0 5px 5px rgba(0,0,0,.26);
+	padding-top: 0,7%;
+	padding-left: 2%;
+	color: #FFFFFF;
+        z-index:5000;
+
+}
+.button_home{
+	background-color: #424242;
+	color: #FFFFFF;
+	width:400px;
+	height:400px;
+	float: left;
+	display: inline;
+	margin: 15% 0% 0% 18%;
+	text-align: center;
+	border-radius:290px;
+	cursor: pointer;
+	opacity: 0.8;
+}
+.button_home:hover{
+background:#FFD600;
+color:#000000;
+transition:.2s linear;
+opacity: 0.8;
+}
+
+#menu_home_kanan{
+	padding:90px 20px 20px 25px;
+	font-size: 40pt;
+
+}
+#menu_home_kiri{
+	align-self: center;
+	padding-left:40px;
+        padding-right:40px;
+        padding-top :120px;
+        padding-bottom:65px;
+	font-size: 45pt;
+}
+.footer{
+	
+	color: #fff;
+	background-color: #B71C1C;
+	height: auto;
+	padding:1%;
+}

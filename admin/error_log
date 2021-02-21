@@ -1,0 +1,43 @@
+[05-Jul-2018 21:48:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/siph4736/public_html/admin/index.php on line 29
+[05-Jul-2018 21:48:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/siph4736/public_html/admin/index.php on line 29
+[05-Jul-2018 21:49:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/siph4736/public_html/admin/index.php on line 29
+[05-Jul-2018 21:52:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/siph4736/public_html/admin/index.php on line 29
+[05-Jul-2018 21:54:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/siph4736/public_html/admin/index.php on line 29
+[05-Aug-2018 22:18:44 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/siph4736/public_html/admin/data_angket.php on line 95
+[08-Aug-2018 23:52:01 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/siph4736/public_html/admin/data_angket.php on line 95
+[09-Aug-2018 12:46:28 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/siph4736/public_html/admin/data_angket.php on line 95
+[28-Feb-2019 21:31:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/siph4736/public_html/includes/koneksi.php:2
+Stack trace:
+#0 /home/siph4736/public_html/admin/index.php(29): include()
+#1 {main}
+  thrown in /home/siph4736/public_html/includes/koneksi.php on line 2
+[28-Feb-2019 21:45:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/siph4736/public_html/includes/koneksi.php:2
+Stack trace:
+#0 /home/siph4736/public_html/admin/index.php(29): include()
+#1 {main}
+  thrown in /home/siph4736/public_html/includes/koneksi.php on line 2
+[01-Mar-2019 09:46:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/siph4736/public_html/includes/koneksi.php:2
+Stack trace:
+#0 /home/siph4736/public_html/admin/index.php(29): include()
+#1 {main}
+  thrown in /home/siph4736/public_html/includes/koneksi.php on line 2
+[01-Mar-2019 10:31:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/siph4736/public_html/includes/koneksi.php:2
+Stack trace:
+#0 /home/siph4736/public_html/admin/index.php(29): include()
+#1 {main}
+  thrown in /home/siph4736/public_html/includes/koneksi.php on line 2
+[01-Mar-2019 10:49:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/siph4736/public_html/includes/koneksi.php:2
+Stack trace:
+#0 /home/siph4736/public_html/admin/index.php(29): include()
+#1 {main}
+  thrown in /home/siph4736/public_html/includes/koneksi.php on line 2
+[01-Mar-2019 15:25:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/siph4736/public_html/includes/koneksi.php:2
+Stack trace:
+#0 /home/siph4736/public_html/admin/index.php(29): include()
+#1 {main}
+  thrown in /home/siph4736/public_html/includes/koneksi.php on line 2
+[01-Mar-2019 15:26:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/siph4736/public_html/includes/koneksi.php:2
+Stack trace:
+#0 /home/siph4736/public_html/admin/index.php(29): include()
+#1 {main}
+  thrown in /home/siph4736/public_html/includes/koneksi.php on line 2
